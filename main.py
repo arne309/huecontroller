@@ -1,6 +1,7 @@
 #!env python
 
 import argparse
+import hue
 
 def main(argv):
     parser = argparse.ArgumentParser(description='Process some integers.')
